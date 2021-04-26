@@ -34,6 +34,6 @@ Need to contact [jung0808?](https://github.com/jung0808) <br>
 
 ## <br> Attached is also a personal link to my homework assignment #9
 
-## https://github.com/jung0808/homework-9-readme-generator/
+## https://github.com/jung0808/homework-10-team-profile-generator/
 
-## Video demo of deployed application: https://drive.google.com/file/d/1a6wZONdXB7RshQ_iK1v2RP3TrhwnXczz/view
+## Video demo of deployed application: <br> https://drive.google.com/file/d/1TaYoK6lAikOBZX-ofnPveQviOrCUOo5L/view
