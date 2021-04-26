@@ -127,8 +127,8 @@ function addHtml(member) {
             <h5 class="card-header">${name}<br /><br />Engineer</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
-                <li class="list-group-item">GitHub: <a href="https://www.github.com/${gitHub}">Github Profile Page!</a></li>
+                <li class="list-group-item">Email Address: <a href = "mailto: ${email}">${email}</a></li>
+                <li class="list-group-item">GitHub: <a href="https://www.github.com/${gitHub}">${gitHub}</a></li>
             </ul>
             </div>
         </div>`;
@@ -139,7 +139,7 @@ function addHtml(member) {
             <h5 class="card-header">${name}<br /><br />Intern</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
+                <li class="list-group-item">Email Address: <a href = "mailto: ${email}">${email}</a></li>
                 <li class="list-group-item">School: ${school}</li>
             </ul>
             </div>
@@ -151,7 +151,7 @@ function addHtml(member) {
               <h5 class="card-header">${name}<br /><br />Employee</h5>
               <ul class="list-group list-group-flush">
                   <li class="list-group-item">ID: ${id}</li>
-                  <li class="list-group-item">Email Address: ${email}</li>
+                  <li class="list-group-item">Email Address: <a href = "mailto: ${email}">${email}</a></li>
                   <li class="list-group-item">Type of Role: ${roles}</li>
               </ul>
               </div>
@@ -163,7 +163,7 @@ function addHtml(member) {
             <h5 class="card-header">${name}<br /><br />Manager</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
+                <li class="list-group-item">Email Address: <a href = "mailto: ${email}">${email}</a></li>
                 <li class="list-group-item">Office Phone: ${officePhone}</li>
             </ul>
             </div>
